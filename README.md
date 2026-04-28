@@ -26,3 +26,6 @@ To run this project locally:
 
 ## 💡 Usage
 Basic calendar app
+
+## 📜 License
+This project is open source and available under the GNU GENERAL PUBLIC LICENSE V3.0.
